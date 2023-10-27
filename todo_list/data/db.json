@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "checked": true,
+      "item": "visit bala"
+    },
+    {
+      "id": 3,
+      "checked": true,
+      "item": "AI"
+    },
+    {
+      "id": 4,
+      "checked": true,
+      "item": "git"
+    },
+    {
+      "id": 5,
+      "checked": false,
+      "item": "python"
+    }
+  ]
+}
